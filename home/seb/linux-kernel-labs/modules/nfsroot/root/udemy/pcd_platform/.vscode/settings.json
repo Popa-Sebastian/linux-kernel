@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "module.h": "c",
+        "platform_device.h": "c",
+        "platform.h": "c"
+    }
+}
